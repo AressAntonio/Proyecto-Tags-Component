@@ -1,0 +1,68 @@
+body{
+	font-family: sans-serif;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#app{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 50px;
+}
+
+.input{
+	font-family: inherit;
+	font-size: inherit;
+	padding: 10px 6px;
+	min-width: 20px;
+	display: flex;
+	align-items: center;
+	outline: none;
+}
+
+.input-tag-container{
+	display: flex;
+	padding: 5px;
+	width: 500px;
+	flex-wrap: wrap;
+	border: dotted 2px #ccc;
+}
+
+.tag-container{
+	display: flex;
+	gap: 5px;
+	flex-wrap: wrap;
+}
+
+.tag-item{
+	border: solid 2px #ccc;
+	background-color: #ccc;
+	display: flex;
+	padding: 5px;
+	border-radius: 5px;
+	align-items: center;
+	border: solid 1px black;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
+
+.tag-item button{
+	width: 22px;
+	height: 22px;
+	border-radius: 50%;
+	padding: 5px;
+	margin-left: 20px;
+	margin-top: -17px;
+	border: none;
+	background-color: transparent;
+	color: black;
+	text-align: center;
+	cursor: pointer;
+}
+.tag-item button:hover{
+	background-color: red;
+	color: white;
+}
