@@ -1,6 +1,6 @@
 # Proyecto Componente||Etiquetas
 
-<p>Aplicacion web con la cual se pueden crear etiquetas.<br>Es de utilidad para diferentes sistemas<br>que necesiten crear un apartado para etiquetas<br>de productos u objetosen en sus proyectos web</p><br>
+<p>Aplicacion web con la cual se pueden crear etiquetas.<br>Es de utilidad para diferentes sistemas<br>que necesiten crear un apartado para etiquetas<br>de productos u objetos en sus proyectos web</p><br>
 
 <h3>Tecnologias Utlizadas:</h3>
 <ul>
